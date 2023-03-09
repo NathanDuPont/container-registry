@@ -1,0 +1,7 @@
+# Ignore the files within the certs directory, except for the README
+certs/*
+!certs/README.md
+
+# Ignore the files within the registry directory, except for the README
+registry/*
+!registry/README.md
